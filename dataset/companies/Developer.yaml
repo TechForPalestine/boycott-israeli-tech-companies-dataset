@@ -1,0 +1,85 @@
+
+  - Name: "Wilco"
+    Description: ""
+    Website: "https://trywilco.com/"
+    alternatives: []
+  - Name: "Swimm"
+    Description: ""
+    Website: "https://swimm.io/"
+    alternatives: []
+  - Name: "Sisense"
+    Description: ""
+    Website: "https://sisense.com/"
+    alternatives: []
+  - Name: "Salto"
+    Description: ""
+    Website: "https://salto.io/"
+    alternatives: []
+  - Name: "Redis Labs"
+    Description: ""
+    Website: "https://redis.com/"
+    alternatives: []
+  - Name: "Qwak"
+    Description: ""
+    Website: "https://qwak.com/"
+    alternatives: []
+  - Name: "Permit.io"
+    Description: ""
+    Website: "https://permit.io/"
+    alternatives: []
+  - Name: "Logz.io"
+    Description: ""
+    Website: "https://logz.io/"
+    alternatives: []
+  - Name: "Jfrog"
+    Description: ""
+    Website: "https://jfrog.com/"
+    alternatives: []
+  - Name: "IronSource"
+    Description: ""
+    Website: "https://is.com/"
+    alternatives: []
+  - Name: "Indeitq"
+    Description: ""
+    Website: "https://identiq.com/"
+    alternatives: []
+  - Name: "Frontegg"
+    Description: ""
+    Website: "https://frontegg.com/"
+    alternatives: []
+  - Name: "Explorium"
+    Description: ""
+    Website: "https://explorium.ai/"
+    alternatives: []
+  - Name: "DagsHub"
+    Description: ""
+    Website: "https://dagshub.com/"
+    alternatives: []
+  - Name: "Coralogix"
+    Description: ""
+    Website: "https://coralogix.com/"
+    alternatives: []
+  - Name: "Codium"
+    Description: ""
+    Website: "https://codium.ai/"
+    alternatives: []
+  - Name: "Cloudinary"
+    Description: ""
+    Website: "https://cloudinary.com/"
+    alternatives: []
+  - Name: "BigPanda"
+    Description: ""
+    Website: "https://bigpanda.com/"
+    alternatives: []
+  - Name: "Anima"
+    Description: ""
+    Website: "https://animaapp.com/"
+    alternatives: []
+  - Name: "Amdocs"
+    Description: ""
+    Website: "https://amdocs.com/"
+    alternatives: []
+  - Name: "AI21 Labs"
+    Description: ""
+    Website: "https://ai21.com/"
+    alternatives: []

@@ -1,0 +1,49 @@
+
+  - Name: "Zesty"
+    Description: ""
+    Website: "https://zesty.co/"
+    alternatives: []
+  - Name: "Rivery"
+    Description: ""
+    Website: "https://rivery.io/"
+    alternatives: []
+  - Name: "Regatta Data"
+    Description: ""
+    Website: "https://regatta.dev/"
+    alternatives: []
+  - Name: "Quali"
+    Description: ""
+    Website: "https://quali.com/"
+    alternatives: []
+  - Name: "Komodor"
+    Description: ""
+    Website: "https://komodor.com/"
+    alternatives: []
+  - Name: "Firefly"
+    Description: ""
+    Website: "https://firefly.ai/"
+    alternatives: []
+  - Name: "Firebolt"
+    Description: ""
+    Website: "https://firebolt.io/"
+    alternatives: []
+  - Name: "Finout"
+    Description: ""
+    Website: "https://finout.io/"
+    alternatives: []
+  - Name: "Cellebrite"
+    Description: ""
+    Website: "https://cellebrite.com/en/home/"
+    alternatives: []
+  - Name: "Cato Networks"
+    Description: ""
+    Website: "https://catonetworks.com/"
+    alternatives: []
+  - Name: "Appwrite"
+    Description: ""
+    Website: "https://appwrite.io/"
+    alternatives: []
+  - Name: "Apiiro"
+    Description: ""
+    Website: "https://apiiro.com/"
+    alternatives: []

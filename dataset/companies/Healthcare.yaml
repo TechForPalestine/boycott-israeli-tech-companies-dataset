@@ -1,0 +1,41 @@
+
+  - Name: "Stuff That Works"
+    Description: ""
+    Website: "https://stuffthatworks.health/"
+    alternatives: []
+  - Name: "Navina"
+    Description: ""
+    Website: "https://navina.ai/"
+    alternatives: []
+  - Name: "Droxi.ai"
+    Description: ""
+    Website: "https://droxi.ai/"
+    alternatives: []
+  - Name: "Ritual"
+    Description: ""
+    Website: "https://heyritual.com/"
+    alternatives: []
+  - Name: "K Health"
+    Description: ""
+    Website: "https://khealth.com/"
+    alternatives: []
+  - Name: "Immunai"
+    Description: ""
+    Website: "https://immunai.com/"
+    alternatives: []
+  - Name: "Healthy.io"
+    Description: ""
+    Website: "https://healthy.io/"
+    alternatives: []
+  - Name: "Eleos Health"
+    Description: ""
+    Website: "https://eleos.health/"
+    alternatives: []
+  - Name: "DeepCure"
+    Description: ""
+    Website: "https://deepcure.ai/"
+    alternatives: []
+  - Name: "Aidoc"
+    Description: ""
+    Website: "https://aidoc.com/"
+    alternatives: []

@@ -1,0 +1,97 @@
+
+  - Name: "Wiz"
+    Description: "Cloud security platform "
+    Website: "https://wiz.io/"
+    alternatives: []
+  - Name: "Tufin"
+    Description: "End-to-end network security across any hybrid enterprise infrastructure"
+    Website: "https://tufin.com/"
+    alternatives: []
+  - Name: "Talon"
+    Description: "Securing the Modern Hybrid Workforce. Any user, Any location, Any device, Any web application"
+    Website: "https://talon-sec.com/"
+    alternatives: []
+  - Name: "Stellar Cyber"
+    Description: "Digital cyber security"
+    Website: "https://stellarcyber.ai/"
+    alternatives: []
+  - Name: "Snyk"
+    Description: "Securing the entire development cycle "
+    Website: "https://snyk.io/"
+    alternatives: []
+  - Name: "Silverfort"
+    Description: "Unified identity protection "
+    Website: "https://silverfort.com/"
+    alternatives: []
+  - Name: "Sentra"
+    Description: "Data security"
+    Website: "https://sentra.io/"
+    alternatives: []
+  - Name: "SentinelOne"
+    Description: "Enterprise security platform"
+    Website: "https://sentinelone.com/"
+    alternatives: []
+  - Name: "Salt Security"
+    Description: "API security "
+    Website: "https://salt.security/"
+    alternatives: []
+  - Name: "SafeBreach"
+    Description: "Breach and attack simulation "
+    Website: "https://safebreach.com/"
+    alternatives: []
+  - Name: "Panoray"
+    Description: "Evaluating 3rd party risk"
+    Website: "https://panorays.com/"
+    alternatives: []
+  - Name: "Noname Security"
+    Description: "API security platform "
+    Website: "https://nonamesecurity.com/"
+    alternatives: []
+  - Name: "Imperva"
+    Description: "API Security"
+    Website: "https://imperva.com/"
+    alternatives: []
+  - Name: "Dig Security"
+    Description: "Data security for enterprise "
+    Website: "https://dig.security/"
+    alternatives: []
+  - Name: "Descope"
+    Description: "Customer authentication and identity management"
+    Website: "https://descope.com/"
+    alternatives: []
+  - Name: "Cybereason"
+    Description: "Security platform for threat detection"
+    Website: "https://cybereason.com/"
+    alternatives: []
+  - Name: "CyberArk"
+    Description: "Securing your most privileged users and valuable assets with intelligent privilege controls"
+    Website: "https://cyberark.com/"
+    alternatives: []
+  - Name: "Claroty"
+    Description: "Securing cyber physical systems"
+    Website: "https://claroty.com/"
+    alternatives: []
+  - Name: "CheckPoint"
+    Description: "Assessing cyber security risk"
+    Website: "https://checkpoint.com/"
+    alternatives: []
+  - Name: "Blink Ops"
+    Description: "Security automation co-pilot "
+    Website: "https://blinkops.com/"
+    alternatives: []
+  - Name: "AXONIUS"
+    Description: ""
+    Website: "https://axonius.com/"
+    alternatives: []
+  - Name: "Argus Cyber Security"
+    Description: ""
+    Website: "https://argus-sec.com/"
+    alternatives: []
+  - Name: "Aqua Security"
+    Description: ""
+    Website: "https://aquasec.com/"
+    alternatives: []
+  - Name: "Apiiro"
+    Description: ""
+    Website: "https://apiiro.com/"
+    alternatives: []
