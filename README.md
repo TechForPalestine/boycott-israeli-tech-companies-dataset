@@ -14,20 +14,11 @@ This repository is dedicated to providing a comprehensive list of Israeli tech c
 
 We welcome contributions from the community. If you wish to add a company to the boycott list or suggest an alternative, please follow these steps:
 
-- Clone the repository.
+- Create a new fork.
+- Clone your fork repository.
 - Make your changes in a new branch.
+- Add a comprehensive commit message e.g. "Added new trigger-happy company". Push.
 - Submit a pull request with a detailed description of your additions or changes.
-
-### Next steps
-
-- Validate companies data schema
-
-
-#### I'm a Developer!
-
-```
-
-```
 
 
 #### Help! I'm not a developer! How do I contribute?
@@ -46,6 +37,6 @@ We welcome contributions from the community. If you wish to add a company to the
 Done! One of the project maintainers will review and merge your changes.
 
 
-Use git:
+### Next steps
 
-1. Copy git clone URL
+- Validate companies data schema
