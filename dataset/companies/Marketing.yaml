@@ -1,69 +1,68 @@
-
-  - Name: "Yotpo"
-    Description: ""
-    Website: "https://yotpo.com/"
-    alternatives: []
-  - Name: "Wix"
-    Description: ""
-    Website: "https://wix.com/"
-    alternatives: []
-  - Name: "TripleWhale"
-    Description: ""
-    Website: "https://triplewhale.com/"
-    alternatives: []
-  - Name: "Trendemon"
-    Description: ""
-    Website: "https://trendemon.com/"
-    alternatives: []
-  - Name: "Start.io"
-    Description: ""
-    Website: "https://start.io/"
-    alternatives: []
-  - Name: "Spot.IM (now OpenWeb)"
-    Description: ""
-    Website: "https://openweb.com/"
-    alternatives: []
-  - Name: "Similarweb"
-    Description: ""
-    Website: "https://similarweb.com/"
-    alternatives: []
-  - Name: "Riverside.fm"
-    Description: ""
-    Website: "https://riverside.fm/"
-    alternatives: []
-  - Name: "PeerSpot"
-    Description: ""
-    Website: "https://peerspot.com/"
-    alternatives: []
-  - Name: "Pecan.ai"
-    Description: ""
-    Website: "https://pecan.ai/"
-    alternatives: []
-  - Name: "Optimove"
-    Description: ""
-    Website: "https://optimove.com/"
-    alternatives: []
-  - Name: "Mapme"
-    Description: ""
-    Website: "https://mapme.com/"
-    alternatives: []
-  - Name: "Lightricks"
-    Description: ""
-    Website: "https://lightricks.com/"
-    alternatives: []
-  - Name: "Kaltura"
-    Description: ""
-    Website: "https://corp.kaltura.com/"
-    alternatives: []
-  - Name: "Elementor"
-    Description: ""
-    Website: "https://elementor.com/"
-    alternatives: []
-  - Name: "Appsflyer"
-    Description: ""
-    Website: "https://appsflyer.com/"
-    alternatives: []
-  - Name: "Affogata"
-    Description: ""
-    Website: "https://affogata.com/"
-    alternatives: []
+- Name: "Yotpo"
+  Description: ""
+  Website: "https://yotpo.com/"
+  Alternatives: []
+- Name: "Wix"
+  Description: ""
+  Website: "https://wix.com/"
+  Alternatives: []
+- Name: "TripleWhale"
+  Description: ""
+  Website: "https://triplewhale.com/"
+  Alternatives: []
+- Name: "Trendemon"
+  Description: ""
+  Website: "https://trendemon.com/"
+  Alternatives: []
+- Name: "Start.io"
+  Description: ""
+  Website: "https://start.io/"
+  Alternatives: []
+- Name: "Spot.IM (now OpenWeb)"
+  Description: ""
+  Website: "https://openweb.com/"
+  Alternatives: []
+- Name: "Similarweb"
+  Description: ""
+  Website: "https://similarweb.com/"
+  Alternatives: []
+- Name: "Riverside.fm"
+  Description: ""
+  Website: "https://riverside.fm/"
+  Alternatives: []
+- Name: "PeerSpot"
+  Description: ""
+  Website: "https://peerspot.com/"
+  Alternatives: []
+- Name: "Pecan.ai"
+  Description: ""
+  Website: "https://pecan.ai/"
+  Alternatives: []
+- Name: "Optimove"
+  Description: ""
+  Website: "https://optimove.com/"
+  Alternatives: []
+- Name: "Mapme"
+  Description: ""
+  Website: "https://mapme.com/"
+  Alternatives: []
+- Name: "Lightricks"
+  Description: ""
+  Website: "https://lightricks.com/"
+  Alternatives: []
+- Name: "Kaltura"
+  Description: ""
+  Website: "https://corp.kaltura.com/"
+  Alternatives: []
+- Name: "Elementor"
+  Description: ""
+  Website: "https://elementor.com/"
+  Alternatives: []
+- Name: "Appsflyer"
+  Description: ""
+  Website: "https://appsflyer.com/"
+  Alternatives: []
+- Name: "Affogata"
+  Description: ""
+  Website: "https://affogata.com/"
+  Alternatives: []

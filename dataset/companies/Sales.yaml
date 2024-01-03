@@ -1,53 +1,52 @@
-
-  - Name: "Substrata"
-    Description: ""
-    Website: "https://substrata.me/"
-    alternatives: []
-  - Name: "Intail.ai"
-    Description: ""
-    Website: "https://intail.ai/"
-    alternatives: []
-  - Name: "Graphiti"
-    Description: ""
-    Website: "https://graphiti.ai/"
-    alternatives: []
-  - Name: "Dany"
-    Description: ""
-    Website: "https://dany.ai/"
-    alternatives: []
-  - Name: "Aligned"
-    Description: ""
-    Website: "https://alignedup.com/"
-    alternatives: []
-  - Name: "Walnut"
-    Description: ""
-    Website: "https://walnut.io/"
-    alternatives: []
-  - Name: "Sweep"
-    Description: ""
-    Website: "https://sweep.io/"
-    alternatives: []
-  - Name: "Demoleap"
-    Description: ""
-    Website: "https://demoleap.com/"
-    alternatives: []
-  - Name: "Dealhub"
-    Description: ""
-    Website: "https://dealhub.io/"
-    alternatives: []
-  - Name: "Lusha"
-    Description: ""
-    Website: "https://lusha.com/"
-    alternatives: []
-  - Name: "Gong"
-    Description: ""
-    Website: "https://gong.io/"
-    alternatives: []
-  - Name: "Walkme"
-    Description: ""
-    Website: "https://walkme.com/"
-    alternatives: []
-  - Name: "Nice Systems"
-    Description: ""
-    Website: "https://nice.com/"
-    alternatives: []
+- Name: "Substrata"
+  Description: ""
+  Website: "https://substrata.me/"
+  Alternatives: []
+- Name: "Intail.ai"
+  Description: ""
+  Website: "https://intail.ai/"
+  Alternatives: []
+- Name: "Graphiti"
+  Description: ""
+  Website: "https://graphiti.ai/"
+  Alternatives: []
+- Name: "Dany"
+  Description: ""
+  Website: "https://dany.ai/"
+  Alternatives: []
+- Name: "Aligned"
+  Description: ""
+  Website: "https://alignedup.com/"
+  Alternatives: []
+- Name: "Walnut"
+  Description: ""
+  Website: "https://walnut.io/"
+  Alternatives: []
+- Name: "Sweep"
+  Description: ""
+  Website: "https://sweep.io/"
+  Alternatives: []
+- Name: "Demoleap"
+  Description: ""
+  Website: "https://demoleap.com/"
+  Alternatives: []
+- Name: "Dealhub"
+  Description: ""
+  Website: "https://dealhub.io/"
+  Alternatives: []
+- Name: "Lusha"
+  Description: ""
+  Website: "https://lusha.com/"
+  Alternatives: []
+- Name: "Gong"
+  Description: ""
+  Website: "https://gong.io/"
+  Alternatives: []
+- Name: "Walkme"
+  Description: ""
+  Website: "https://walkme.com/"
+  Alternatives: []
+- Name: "Nice Systems"
+  Description: ""
+  Website: "https://nice.com/"
+  Alternatives: []
