@@ -1,0 +1,13 @@
+
+- Name: "OpenAI"
+  Description: "AI Research makers of ChatGPT"
+  Website: "https://openai.com/"
+  alternatives: ["Hugging Face Open Source Moadels - https://huggingface.co/"]
+- Name: "OpenAI - ChatGPT"
+  Description: "AI ChatBot"
+  Website: "https://chat.openai.com/"
+  alternatives: ["Hugging Face Chat - https://huggingface.co/"]
+- Name: "AI Chat Bot based on Hugging Face Open Source Models - https://huggingface.co/chat/"
+  Description: "AI Code Assistant"
+  Website: "https://codeium.com/"
+  alternatives: ["llm-vscode - https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode"]
