@@ -1,0 +1,8 @@
+ - Name: "McDonald"
+    Description: ""
+    Website: "https://www.mcdonalds.com/"
+    alternatives: []
+ - Name: "Starbucks"
+    Description: ""
+    Website: "https://www.starbucks.com/"
+    alternatives: []
