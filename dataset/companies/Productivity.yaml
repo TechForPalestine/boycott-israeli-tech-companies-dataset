@@ -1,57 +1,56 @@
-
-  - Name: "Verbit"
-    Description: ""
-    Website: "https://verbit.ai/"
-    alternatives: []
-  - Name: "TimeOS"
-    Description: ""
-    Website: "https://timeos.ai/"
-    alternatives: []
-  - Name: "SysAid Technologies"
-    Description: ""
-    Website: "https://sysaid.com/"
-    alternatives: []
-  - Name: "Rupert"
-    Description: ""
-    Website: "https://hirupert.co/"
-    alternatives: []
-  - Name: "Powtoon"
-    Description: ""
-    Website: "https://powtoon.com/"
-    alternatives: []
-  - Name: "Monday.com"
-    Description: ""
-    Website: "https://monday.com/"
-    alternatives: []
-  - Name: "Komodor"
-    Description: ""
-    Website: "https://komodor.com/"
-    alternatives: []
-  - Name: "Lightico"
-    Description: ""
-    Website: "https://lightico.com/"
-    alternatives: []
-  - Name: "Kryon Systems"
-    Description: ""
-    Website: "http://kryonsystems.com/"
-    alternatives: []
-  - Name: "Honeybook"
-    Description: ""
-    Website: "https://honeybook.com/"
-    alternatives: []
-  - Name: "Groove"
-    Description: ""
-    Website: "https://groove.ooo/"
-    alternatives: []
-  - Name: "Fiverr"
-    Description: ""
-    Website: "https://fiverr.com/"
-    alternatives: []
-  - Name: "Connecteam"
-    Description: ""
-    Website: "https://connecteam.com/"
-    alternatives: []
-  - Name: "Bizzabo"
-    Description: ""
-    Website: "https://bizzabo.com/"
-    alternatives: []
+- Name: "Verbit"
+  Description: ""
+  Website: "https://verbit.ai/"
+  Alternatives: []
+- Name: "TimeOS"
+  Description: ""
+  Website: "https://timeos.ai/"
+  Alternatives: []
+- Name: "SysAid Technologies"
+  Description: ""
+  Website: "https://sysaid.com/"
+  Alternatives: []
+- Name: "Rupert"
+  Description: ""
+  Website: "https://hirupert.co/"
+  Alternatives: []
+- Name: "Powtoon"
+  Description: ""
+  Website: "https://powtoon.com/"
+  Alternatives: []
+- Name: "Monday.com"
+  Description: ""
+  Website: "https://monday.com/"
+  Alternatives: []
+- Name: "Komodor"
+  Description: ""
+  Website: "https://komodor.com/"
+  Alternatives: []
+- Name: "Lightico"
+  Description: ""
+  Website: "https://lightico.com/"
+  Alternatives: []
+- Name: "Kryon Systems"
+  Description: ""
+  Website: "http://kryonsystems.com/"
+  Alternatives: []
+- Name: "Honeybook"
+  Description: ""
+  Website: "https://honeybook.com/"
+  Alternatives: []
+- Name: "Groove"
+  Description: ""
+  Website: "https://groove.ooo/"
+  Alternatives: []
+- Name: "Fiverr"
+  Description: ""
+  Website: "https://fiverr.com/"
+  Alternatives: []
+- Name: "Connecteam"
+  Description: ""
+  Website: "https://connecteam.com/"
+  Alternatives: []
+- Name: "Bizzabo"
+  Description: ""
+  Website: "https://bizzabo.com/"
+  Alternatives: []
