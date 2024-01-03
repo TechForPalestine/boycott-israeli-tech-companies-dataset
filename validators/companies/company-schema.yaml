@@ -1,0 +1,35 @@
+type: array
+items:
+  type: object
+  properties:
+    Name:
+      type: string
+      maxLength: 50
+    Description:
+      type: string
+      maxLength: 500
+    Website:
+      type: string
+      maxLength: 50
+    Alternatives:
+      type: array
+      items:
+        type: object
+        properties:
+          Name:
+            type: string
+            maxLength: 50
+          Description:
+            type: string
+            maxLength: 500
+          Website:
+            type: string
+            maxLength: 50
+        required:
+          - Name
+          - Website
+        additionalProperties: false
+  required:
+    - Name
+    - Website
+  additionalProperties: false
