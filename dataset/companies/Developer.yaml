@@ -82,3 +82,7 @@
   Description: ""
   Website: "https://ai21.com/"
   Alternatives: []
+- Name: "Dragonfly DB"
+  Description: "A redis compatible In Memory datastore"
+  Website: "https://www.dragonflydb.io/"
+  Alternatives: ["Memcached", "KeyDB"]
