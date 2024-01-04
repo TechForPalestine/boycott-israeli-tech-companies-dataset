@@ -1,53 +1,48 @@
-
-  - Name: "Zesty"
-    Description: ""
-    Website: "https://zesty.co/"
-    alternatives: []
-  - Name: "Rivery"
-    Description: ""
-    Website: "https://rivery.io/"
-    alternatives: []
-  - Name: "Regatta Data"
-    Description: ""
-    Website: "https://regatta.dev/"
-    alternatives: []
-  - Name: "Quali"
-    Description: ""
-    Website: "https://quali.com/"
-    alternatives: []
-  - Name: "Komodor"
-    Description: ""
-    Website: "https://komodor.com/"
-    alternatives: []
-  - Name: "Firefly"
-    Description: ""
-    Website: "https://firefly.ai/"
-    alternatives: []
-  - Name: "Firebolt"
-    Description: ""
-    Website: "https://firebolt.io/"
-    alternatives: []
-  - Name: "Finout"
-    Description: ""
-    Website: "https://finout.io/"
-    alternatives: []
-  - Name: "Cellebrite"
-    Description: ""
-    Website: "https://cellebrite.com/en/home/"
-    alternatives: []
-  - Name: "Cato Networks"
-    Description: ""
-    Website: "https://catonetworks.com/"
-    alternatives: []
-  - Name: "Appwrite"
-    Description: ""
-    Website: "https://appwrite.io/"
-    alternatives: []
-  - Name: "Apiiro"
-    Description: ""
-    Website: "https://apiiro.com/"
-    alternatives: []
-  - Name: "Wix"
-    Description: "Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It offers tools for creating HTML5 websites and mobile sites using online drag-and-drop editing."
-    Website: "https://www.wix.com"
-    alternatives: ["wuilt.com"]
+- Name: "Zesty"
+  Description: ""
+  Website: "https://zesty.co/"
+  Alternatives: []
+- Name: "Rivery"
+  Description: ""
+  Website: "https://rivery.io/"
+  Alternatives: []
+- Name: "Regatta Data"
+  Description: ""
+  Website: "https://regatta.dev/"
+  Alternatives: []
+- Name: "Quali"
+  Description: ""
+  Website: "https://quali.com/"
+  Alternatives: []
+- Name: "Komodor"
+  Description: ""
+  Website: "https://komodor.com/"
+  Alternatives: []
+- Name: "Firefly"
+  Description: ""
+  Website: "https://firefly.ai/"
+  Alternatives: []
+- Name: "Firebolt"
+  Description: ""
+  Website: "https://firebolt.io/"
+  Alternatives: []
+- Name: "Finout"
+  Description: ""
+  Website: "https://finout.io/"
+  Alternatives: []
+- Name: "Cellebrite"
+  Description: ""
+  Website: "https://cellebrite.com/en/home/"
+  Alternatives: []
+- Name: "Cato Networks"
+  Description: ""
+  Website: "https://catonetworks.com/"
+  Alternatives: []
+- Name: "Appwrite"
+  Description: ""
+  Website: "https://appwrite.io/"
+  Alternatives: []
+- Name: "Apiiro"
+  Description: ""
+  Website: "https://apiiro.com/"
+  Alternatives: []
