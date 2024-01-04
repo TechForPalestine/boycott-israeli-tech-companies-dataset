@@ -82,3 +82,13 @@
   Description: ""
   Website: "https://ai21.com/"
   Alternatives: []
+- Name: "Dragonfly DB"
+  Description: "A redis compatible In Memory datastore"
+  Website: "https://www.dragonflydb.io/"
+  Alternatives:
+  - Name: "Memcached"
+    Description: "Memcached is a high-performance, distributed memory object caching system"
+    Website: "https://memcached.org/"
+  - Name: "KeyDB"
+    Description: "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis"
+    Website: "https://docs.keydb.dev/"
