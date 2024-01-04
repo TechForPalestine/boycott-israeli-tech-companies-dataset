@@ -6,7 +6,7 @@
       {
         "Name": "Hugging Face OpenSource Models Repository",
         "Website": "https://huggingface.co/",
-      },
+      }
     ]
 - Name: "ChatGPT"
   Description: "AI Chat Bot"
@@ -26,5 +26,5 @@
       {
         "Name": "Hugging Face - llm-vscode",
         "Website": "VScodeMarketplace - HuggingFace.huggingface-vscode",
-      },
+      }
     ]
