@@ -1,0 +1,30 @@
+- Name: "OpenAI"
+  Description: "AI Research"
+  Website: "https://openai.com/"
+  Alternatives:
+    [
+      {
+        "Name": "Hugging Face OpenSource Models Repository",
+        "Website": "https://huggingface.co/",
+      },
+    ]
+- Name: "ChatGPT"
+  Description: "AI Chat Bot"
+  Website: "https://chat.openai.com/"
+  Alternatives:
+    [
+      { 
+        "Name": "Hugging Face Chat", 
+        "Website": "https://huggingface.co/chat/" 
+      }
+    ]
+- Name: "Codeium"
+  Description: "AI Code Assistant"
+  Website: "https://codeium.com/"
+  Alternatives:
+    [
+      {
+        "Name": "Hugging Face - llm-vscode",
+        "Website": "VScodeMarketplace - HuggingFace.huggingface-vscode",
+      },
+    ]
