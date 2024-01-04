@@ -46,3 +46,9 @@
   Description: ""
   Website: "https://apiiro.com/"
   Alternatives: []
+- Name: "Wix"
+  Description: "Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It offers tools for creating HTML5 websites and mobile sites using online drag-and-drop editing."
+  Website: "https://wix.com/"
+  Alternatives:
+    - Name: "Wuilt"
+      Website: "https://wuilt.com/en/home"
