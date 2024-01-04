@@ -86,17 +86,22 @@
   Description: "A redis compatible In Memory datastore"
   Website: "https://www.dragonflydb.io/"
   Alternatives:
+    [{ "Name": "Memcached", "Description": "Memcached is a high-performance,
+          distributed memory object caching system", "Website": "https://memcached.org/" }, { "Name": "KeyDB", "Description": "KeyDB is a fully open source database,
+          backed by Snap, and a faster drop in alternative to Redis", "Website": "https://docs.keydb.dev/" }]
+- Name: "Tabnine"
+  Description: "AI assistant for developers like GitHub Copilot"
+  Website: "https://www.tabnine.com/"
+  Alternatives:
     [
       {
-        "Name": "Memcached", 
-        "Description": "Memcached is a high-performance,
-          distributed memory object caching system", 
-        "Website": "https://memcached.org/"
+        "Name": "Codeium",
+        "Description": "A free AI powered toolkit for developers, Not to be confused with codium.ai",
+        "Website": "https://codeium.com/",
       },
       {
-        "Name": "KeyDB", 
-        "Description": "KeyDB is a fully open source database,
-          backed by Snap, and a faster drop in alternative to Redis", 
-        "Website": "https://docs.keydb.dev/"
-      }
+        "Name": "Amazon CodeWhisperer",
+        "Description": "a bit controversial as it comes from Amazon!",
+        "Website": "https://aws.amazon.com/codewhisperer/",
+      },
     ]
