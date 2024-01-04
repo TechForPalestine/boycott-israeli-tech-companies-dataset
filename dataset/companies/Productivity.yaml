@@ -58,13 +58,6 @@
   Description: "-UK-based company cofounded by an ex-Israeli surveillance agent and a billionaire previously convicted of insider trading who was later named in the Panama Papers. -Source: https://shorturl.at/eGW49 -Brands: ExpressVPN, Private Internet Access, CyberGhost VPN, ZenMate VPN, Intego Antivirus, Webselenese"
   Website: "https://www.kape.com/"
   Alternatives:
-    - Name: "ExpressVPN"
-      Description: "Free VPN service for the UK"
-      Website: "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
-  [
-    {
-      "Name": "Proton",
-      "Description": "Proton Mail, VPN, Pass, Drive",
-      "Website": "https://proton.me/",
-    }
-  ]
+    - Name: "Proton"
+      Description: "Proton Mail, VPN, Pass, Drive"
+      Website: "https://proton.me/"
