@@ -146,10 +146,17 @@
 - Name: "Apiiro"
   Description: "application security posture management"
   Website: "https://apiiro.com/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Aikido"
+      Description: "A platform that satisfies all code and cloud security needs for scaling dev teams"
+      Website: "https://www.aikido.dev/"
+    - Name: "GuardRails"
+      Description: "GuardRails eliminates vulnerabilities at source, educates developers in real-time, minimizes the security bottleneck, and helps organizations go faster to market."
+      Website: "https://www.guardrails.io/"
 - Name: "Wix"
   Description: "Wix.com Ltd. is an Israeli software company, publicly listed in the US, that provides cloud-based web development services. It offers tools for creating HTML5 websites and mobile sites using online drag-and-drop editing."
   Website: "https://wix.com/"
   Alternatives:
     - Name: "Wuilt"
+      Description: "A cloud-based web development platform from Egypt"
       Website: "https://wuilt.com/en/home"
