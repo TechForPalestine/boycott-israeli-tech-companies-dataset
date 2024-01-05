@@ -92,3 +92,14 @@
   - Name: "KeyDB"
     Description: "KeyDB is a fully open source database, backed by Snap, and a faster drop in alternative to Redis"
     Website: "https://docs.keydb.dev/"
+- Name: "Tabnine"
+  Description: "AI assistant for developers like GitHub Copilot"
+  Website: "https://www.tabnine.com/"
+  Alternatives:
+  - Name: "Codeium"
+    Description: "A free AI powered toolkit for developers, Not to be confused with codium.ai"
+    Website: "https://codeium.com/"
+  - Name: "Amazon CodeWhisperer"
+    Description: "AI from Amazon, AWS supports israel but let's focus on israeli companies now"
+    Website: "https://aws.amazon.com/codewhisperer/"
+
