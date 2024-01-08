@@ -1,3 +1,21 @@
+- Name: "Microsoft"
+  Description: "Microsoft has offices on top of the destroyed Palestinian village Al-Haram"
+  Alternatives:
+  - Name: "Linux"
+    Description: "An open source alternative for Windows"
+    Website: "https://www.linux.org/"
+- Name: "Intel"
+  Description: "Intel has offices on the destroyed palestinian village Al-Haram"
+  Alternatives:
+  - Name: "AMD"
+    Description: "AMD also produces CPUs"
+    Website: "https://www.amd.com/"
+- Name: "Nvidia"
+  Description: "Nvidia has offices on the destroyed palestinian village Al-Shaykh Muwannis"
+  Alternatives:
+  - Name: "AMD"
+    Description: "AMD also produces GPUs"
+    Website: "https://www.amd.com/"
 - Name: "Wilco"
   Description: ""
   Website: "https://trywilco.com/"
