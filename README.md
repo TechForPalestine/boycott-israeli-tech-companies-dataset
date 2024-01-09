@@ -6,6 +6,10 @@
 
 This repository is dedicated to providing a comprehensive list of Israeli tech companies to boycott, categorized based on their respective industries.
 
+### Motivation
+
+This boycott movement is effective, pro-israeli harassment is filling the issues section, the best reply is to focus on building the list of tools to replace their tech. Don't let them intimidate us.
+
 ### Contents
 
 - YAML Files: Each category of companies is organized into separate YAML files. These files are easy to navigate and are regularly updated.
