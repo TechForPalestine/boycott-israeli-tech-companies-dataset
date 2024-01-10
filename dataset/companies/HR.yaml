@@ -13,24 +13,42 @@
 - Name: "myQuest"
   Description: ""
   Website: "https://myquest.co/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Litmos"
+      Description: "Deliver training anytime anywhere across the extended enterprise with easy to use learning platform (LMS) and robust content libraries!"
+      Website: "https://www.litmos.com/"
 - Name: "GrowthSpace"
   Description: ""
   Website: "https://growthspace.com/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Leapsome"
+      Description: "Leapsome is an all-in-one platform for People Enablement. OKRs, Performance Reviews, Engagement Surveys, Learning, and more."
+      Website: "https://www.leapsome.com/"
 - Name: "A.Team"
   Description: ""
   Website: "https://a.team/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Honeypot"
+      Description: "1000s of Software Developers, DevOps & Testing Engineers, Engineering Leaders, and Data Professionals who have found a job on Honeypot."
+      Website: "https://www.honeypot.io/"
 - Name: "Papaya Global"
   Description: ""
   Website: "https://papayaglobal.com/"
-  Alternatives: []
+  Alternatives:
+    - Name: "TriNet HR Platform (Formerly known as TriNet Zenefits)"
+      Description: "TriNet provides businesses with HR solutions including payroll, benefits, risk management and compliance — all in one place."
+      Website: "https://www.trinet.com/"
 - Name: "Deel"
   Description: ""
   Website: "https://deel.com/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Personio"
+      Description: "Personio is an all-in-one HR software solution for companies from 10-2,000 employees, powering over 1 million people worldwide."
+      Website: "https://www.personio.com/"
 - Name: "Bob"
   Description: ""
   Website: "https://hibob.com/"
-  Alternatives: []
+  Alternatives:
+    - Name: "Leapsome"
+      Description: "Leapsome is an all-in-one platform for People Enablement. OKRs, Performance Reviews, Engagement Surveys, Learning, and more."
+      Website: "https://www.leapsome.com/"
