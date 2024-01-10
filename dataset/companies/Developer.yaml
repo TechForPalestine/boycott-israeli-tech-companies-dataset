@@ -123,4 +123,8 @@
   - Name: "Amazon CodeWhisperer"
     Description: "AI from Amazon, AWS supports israel but let's focus on israeli companies now"
     Website: "https://aws.amazon.com/codewhisperer/"
+- Name: "IronSource"
+  Description: "ironSource is an israeli software company that focuses on developing technologies for app monetization and distribution"
+  Website: "https://www.is.com/"
+  Alternatives: []
 
