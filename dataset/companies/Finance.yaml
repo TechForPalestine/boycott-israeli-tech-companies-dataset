@@ -1,5 +1,5 @@
 - Name: "Unit"
-  Description: ""
+  Description: "Embedded Finance Platform"
   Website: "https://unit.co/"
   Alternatives: []
 - Name: "Trullion"
@@ -11,19 +11,19 @@
   Website: "https://tipalti.com/"
   Alternatives: []
 - Name: "Receive"
-  Description: ""
+  Description: "Beta sign-up"
   Website: "https://nowreceive.com/"
   Alternatives: []
 - Name: "Rapyd"
-  Description: ""
+  Description: "Payment Processing and Fintech"
   Website: "https://rapyd.net/"
   Alternatives: []
 - Name: "PayEm"
-  Description: ""
+  Description: "PayEm: The Global Spend and Procurement Platform"
   Website: "https://payem.co/"
   Alternatives: []
 - Name: "Pagaya"
-  Description: ""
+  Description: "Lending Network"
   Website: "https://pagaya.com/"
   Alternatives: []
 - Name: "Noble"
@@ -31,7 +31,7 @@
   Website: "https://benoblel.io/"
   Alternatives: []
 - Name: "Monto"
-  Description: ""
+  Description: "Platform to manage supplier portals"
   Website: "https://montopay.com/"
   Alternatives: []
 - Name: "Mesh Payments"
@@ -39,15 +39,15 @@
   Website: "https://meshpayments.com/"
   Alternatives: []
 - Name: "Melio"
-  Description: ""
+  Description: "Bill Paying Service for Businesses"
   Website: "https://meliopayments.com/"
   Alternatives: []
 - Name: "Jifiti"
-  Description: ""
+  Description: "White-labeled Embedded Lending Solutions for Banks, Lenders and Merchants"
   Website: "https://jifiti.com/"
   Alternatives: []
 - Name: "Gelt"
-  Description: ""
+  Description: "Tax preparation platform"
   Website: "https://joingelt.com/"
   Alternatives: []
 - Name: "FundGuard"
@@ -55,15 +55,15 @@
   Website: "https://fundguard.com/"
   Alternatives: []
 - Name: "Fundbox"
-  Description: ""
+  Description: "Loans for Small Businesses"
   Website: "https://fundbox.com/"
   Alternatives: []
 - Name: "Fintastic"
-  Description: ""
+  Description: "FP&A software."
   Website: "https://fintastic.ai/"
   Alternatives: []
 - Name: "Ezbob"
-  Description: ""
+  Description: "Embedded Banking and Finance Solutions | ezbob"
   Website: "https://ezbob.com/"
   Alternatives: []
 - Name: "Celery"
@@ -75,6 +75,6 @@
   Website: "https://biocatch.com/"
   Alternatives: []
 - Name: "Balance"
-  Description: ""
+  Description: "B2B Payment Technology"
   Website: "https://getbalance.com/"
   Alternatives: []
