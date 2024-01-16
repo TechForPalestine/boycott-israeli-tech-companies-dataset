@@ -44,3 +44,7 @@ Done! One of the project maintainers will review and merge your changes.
 ### Available commands
 
 - `npm run validate` Validate the companies yaml files
+
+### Notes
+
+- The list of ISraeli companies were obtained from [buyisraelitech.com](https://buyisraelitech.com/)
