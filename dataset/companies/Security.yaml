@@ -1,7 +1,10 @@
 - Name: "Wiz"
-  Description: "Cloud security platform "
-  Website: "https://wiz.io/"
-  Alternatives: []
+  Description: "Wiz is a software company headquartered in Israel, that analyzes computing infrastructure hosted in AWS, Azure, GCP, OCI, and Kubernetes for combinations of risk factors that could allow malicious actors to gain control of cloud resources and/or exfiltrate valuable data."
+  Website: "https://wix.com/"
+  Alternatives:
+    - Name: "sysdigsysdig"
+      Description: "Sysdig stops cloud attacks in real time, instantly detecting changes in risk with runtime insights, a unique AI architecture, and open source Falco. Sysdig delivers live visibility by correlating signals across cloud workloads, identities, and services to uncover hidden attack paths."
+      Website: "https://sysdig.com/"
 - Name: "Tufin"
   Description: "End-to-end network security across any hybrid enterprise infrastructure"
   Website: "https://tufin.com/"
