@@ -1,8 +1,14 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 # Boycott Israeli tech Companies Dataset
 
 ### Overview
 
 This repository is dedicated to providing a comprehensive list of Israeli tech companies to boycott, categorized based on their respective industries.
+
+### Motivation
+
+This boycott movement is effective, pro-israeli harassment is filling the issues section, the best reply is to focus on building the list of tools to replace their tech. Don't let them intimidate us.
 
 ### Contents
 
@@ -20,7 +26,6 @@ We welcome contributions from the community. If you wish to add a company to the
 - Add a comprehensive commit message e.g. "Added new trigger-happy company". Push.
 - Submit a pull request with a detailed description of your additions or changes.
 
-
 #### Help! I'm not a developer! How do I contribute?
 
 1. Create a [github account](https://github.com/).
@@ -36,7 +41,14 @@ We welcome contributions from the community. If you wish to add a company to the
 
 Done! One of the project maintainers will review and merge your changes.
 
+### Data Schema
 
-### Next steps
+- [Company Schema](./validators/companies/company-schema.yaml)
 
-- Validate companies data schema
+### Available commands
+
+- `npm run validate` Validate the companies yaml files
+
+### Notes
+
+- The list of ISraeli companies were obtained from [buyisraelitech.com](https://buyisraelitech.com/)

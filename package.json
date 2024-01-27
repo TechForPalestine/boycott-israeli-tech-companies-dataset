@@ -1,0 +1,22 @@
+{
+  "name": "boycott-israeli-tech-companies-dataset",
+  "version": "1.0.0",
+  "description": "This repository is dedicated to providing a comprehensive list of Israeli tech companies to boycott, categorized based on their respective industries.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate": "node validators/companies/companies-validator.js",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ajv": "^8.12.0",
+    "husky": "^8.0.0",
+    "yaml": "^2.3.4"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
