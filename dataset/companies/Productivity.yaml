@@ -21,7 +21,10 @@
 - Name: "Monday.com"
   Description: ""
   Website: "https://monday.com/"
-  Alternatives: []
+  Alternatives:
+  - Name: "Basecamp"
+    Description: "Project management software, online collaboration"
+    Website: "https://basecamp.com/"
 - Name: "Komodor"
   Description: ""
   Website: "https://komodor.com/"
