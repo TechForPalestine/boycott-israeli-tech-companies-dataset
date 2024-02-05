@@ -1,6 +1,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
-# Boycott Israeli tech Companies Dataset
+# Boycott Israeli Tech Companies Dataset
 
 ### Overview
 
