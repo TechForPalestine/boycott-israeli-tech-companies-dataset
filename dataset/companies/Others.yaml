@@ -110,3 +110,13 @@
   Description: "Drone Delivery"
   Website: "https://flytrex.com/"
   Alternatives: []
+- Name: "Blazepod"
+  Description: "Smart Reaction Training Platform"
+  Website: "https://blazepod.co.il/"
+  Alternatives:
+    - Name: "CatchPad"
+      Description: "Interactive Exercise Platform"
+      Website: "https://catchpad.com/en/"
+    - Name: "Light Trainer"
+      Description: "Reaction Light Exercise System"
+      Website: "https://www.lighttrainer.net/"
