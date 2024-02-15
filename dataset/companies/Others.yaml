@@ -120,3 +120,10 @@
     - Name: "Light Trainer"
       Description: "Reaction Light Exercise System"
       Website: "https://www.lighttrainer.net/"
+- Name: "Meetup"
+  Description: "Meetup | Find Local Groups, Events, and Activities Near You"
+  Website: "https://www.meetup.com/"
+  Alternatives:
+  - Name: "Kommunity"
+    Description: "Let's share together | Kommunity"
+    Website: "https://kommunity.com/"
