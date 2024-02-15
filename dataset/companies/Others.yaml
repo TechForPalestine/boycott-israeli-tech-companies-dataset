@@ -110,3 +110,10 @@
   Description: "Drone Delivery"
   Website: "https://flytrex.com/"
   Alternatives: []
+- Name: "Meetup"
+  Description: "Meetup | Find Local Groups, Events, and Activities Near You"
+  Website: "https://www.meetup.com/"
+  Alternatives:
+  - Name: "Kommunity"
+    Description: "Let's share together | Kommunity"
+    Website: "https://kommunity.com/"
