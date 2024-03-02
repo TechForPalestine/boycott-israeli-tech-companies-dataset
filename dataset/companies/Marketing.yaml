@@ -72,3 +72,7 @@
   Alternatives:
     - Name: The Trade Desk
       Website: https://www.thetradedesk.com/
+- Name: "Outbrain"
+  Description: "Outbrain is a web recommendation platform"
+  Website: "https://outbrain.com/"
+  Alternatives: []
