@@ -5,6 +5,13 @@
   - Name: "Linux"
     Description: "An open source alternative for Windows"
     Website: "https://www.linux.org/"
+- Name: "Apple"
+  Website: "https://www.apple.com/"
+  Description: "Apple has offices in the occupied Palestinian land in Haifa, Tel Aviv and Jerusalem"
+  Alternatives:
+  - Name: "Linux"
+    Description: "An open source alternative for Windows"
+    Website: "https://www.linux.org/"
 - Name: "Intel"
   Website: "https://www.intel.com"
   Description: "Intel has offices on the destroyed Palestinian village Al-Haram"
